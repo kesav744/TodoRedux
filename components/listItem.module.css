@@ -1,0 +1,13 @@
+.list {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(97, 20, 220);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7px;   
+}
+.list button {
+    color: red;
+    font-size: larger;
+    cursor: pointer;
+}

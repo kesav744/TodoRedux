@@ -1,0 +1,18 @@
+.form {
+    max-width: 30rem;
+   
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.form button {
+    color: rgb(15, 62, 102);
+    background-color: chartreuse;
+    cursor: pointer;
+
+}
+
+.form input {
+    width: 20rem;    
+}
